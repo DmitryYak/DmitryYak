@@ -14,6 +14,7 @@ Actively use ChatGPT and Cursor to implement and refactor test code.
 </p>
 
 
+
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [dimayakovlev@mail.com](mailto:dimayakovlev@mail.com)
 
