@@ -7,6 +7,12 @@ QA Automation Engineer / Technical QA Lead
 QA Engineer with focus on automation and integration testing (Playwright, Cypress, Postman/Newman, GitLab CI, SQL).
 
 Actively use ChatGPT and Cursor to implement and refactor test code.
+## 🛠 Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,playwright,cypress,postman,git,github,gitlab,docker,postgres,vscode" />
+</p>
+
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [dimayakovlev@mail.com](mailto:dimayakovlev@mail.com)
