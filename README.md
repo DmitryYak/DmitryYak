@@ -14,14 +14,15 @@ Actively use ChatGPT and Cursor to implement and refactor test code.
 </p>
 
 
-
 * 🌍  I'm based in Moscow
-* 💬  You can reach me on Telegram: <a href="https://t.me/DimaYakovl" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg"
-       width="20" height="20" alt="Telegram" title="Telegram" />
-  @DimaYakovl
-</a>
-* ✉️  You can contact me at [dimayakovlev@mail.com](mailto:dimayakovlev@mail.com)
+* 💬  You can reach me on Telegram:
+  <a href="https://t.me/DimaYakovl" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg"
+         width="20" height="20" alt="Telegram" title="Telegram" />
+    @DimaYakovl
+  </a>
+* ✉️  You can contact me at <a href="mailto:dimayakovlev@mail.com">dimayakovlev@mail.com</a>
+
   
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
